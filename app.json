@@ -1,6 +1,6 @@
 {
-  "name": "Zokou-2.0",
-  "description": "bot whatsapp développé par djalega++",
+  "name": "Phazin-Md bot",
+  "description": "bot whatsapp développé par Phazin",
   "keywords": [
     "bot",
     "node",
@@ -34,7 +34,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "Zokou-MD",
+      "value": "Phazin-Md",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -44,7 +44,7 @@
     },
     "PUBLIC_MODE": {
       "description": "type yes to put your bot on public mode or no to put it on private mod",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_APY_KEY": {
@@ -61,14 +61,14 @@
       "required": true
     },
     "OWNER_NAME": {
-      "desc": "Your Name",
+      "desc": "Phazin",
       "required": false,
-      "value": "Djalega++"
+      "value": "phazin"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "22891733300"
+      "value": "50955333793"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
